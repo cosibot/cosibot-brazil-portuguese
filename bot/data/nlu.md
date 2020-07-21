@@ -1385,6 +1385,7 @@
 - Eu quero rir.
 - Eu preciso de uma boa piada.
 - Eu preciso de algo para me animar.
+- conte-me uma piada
 - Eu quero ouvir uma piada.
 - Brincadeira.
 - É uma brincadeira?
@@ -2431,6 +2432,7 @@
 - Por onde começou?
 - Por onde começou o surto?
 - Onde começou o surto?
+- Sobre COVID-19
 
 ## intent:covid_meaning
 - O que significa o nome [COVID-19]{"entity": "virus", "value": "COVID"}?
@@ -2736,7 +2738,9 @@
 - Número de casos em [Guiana Francesa]{"entity": "country_code", "value": "GF"}
 - Número de casos nos EUA
 - Número de casos no [Brasil]{"entity": "country_code", "value": "BR"}
+- quantos casos no [Brasil]{"entity": "country_code", "value": "BR"}
 - Número de casos na região sudeste
+- quantos casos no Brasil?
 - Número de casos na região sul
 - Número de casos na região norte
 - Número de casos na região nordeste
@@ -2815,6 +2819,7 @@
 - Quantas pessoas morreram durante a propagação
 - Quantas mortes no mundo
 - Quantas mortes?
+- quantos faleceram?
 - Mortes na [Europa]{"entity": "world_region", "value": "Europe"}
 - Quantas mortes há na [Ásia]{"entity": "world_region", "value": "Asia"}
 - Mortes no [continente Africano]{"entity": "world_region", "value": "Africa"}
@@ -3260,6 +3265,7 @@
 - Você pode me falar hoje é que dia?
 - Você pode me dizer o encontro de hoje?
 - Você pode me dizer o dia de hoje?
+- diz me a data
 - Você pode me dizer qual é a data de hoje?
 - Você pode me dizer que dia é hoje?
 - Você pode me contar que dia é hoje?
@@ -3305,10 +3311,12 @@
 
 ## intent:features_time
 - Você pode me dizer as horas?
+- diz me as horas
 - Você pode me dizer que horas são?
 - Você pode me falar as horas?
 - Você pode me dizer quais são as horas?
 - Você pode me dizer que horas são agora?
+- que horas são?
 - Você pode me dizer qual é a hora?
 - Você pode me dizer que horas são agora?
 - Você pode me dizer que horas são?
@@ -3463,6 +3471,7 @@
 - Você está indo bem?
 - Você está passando bem?
 - Você está bem?
+- oi tudo bem
 - Boa tarde, Helen! Como você está?
 - Você tem estado bem?
 - Como tem passado?
@@ -3505,6 +3514,7 @@
 
 ## intent:mask_general
 - Posso usar uma máscara descartável?
+- Quando preciso usar máscara?
 - Posso usar uma máscara?
 - Posso usar uma máscara médica?
 - Máscara descartável.
@@ -3517,6 +3527,8 @@
 - Informação de Máscara descartável.
 - Máscara de informação.
 - Informação a respeito de Máscara médica.
+- devo usar máscara?
+- é obrigatória usar máscara?
 - É permitido o uso de máscara?
 - Está tudo bem usar máscara?
 - Não há problema em usar máscara
@@ -3528,6 +3540,7 @@
 - As máscaras médicas, até onde eu sei, fazem parte das medidas preventivas.
 - Máscaras médicas.
 - Máscara médica.
+- Máscaras de tecido
 - Encomendar máscaras
 - Devo usar uma máscara descartável para me proteger?
 - Devo usar uma máscara descartável?
@@ -3559,6 +3572,7 @@
 - Como usar máscaras?
 - Máscaras de prevenção da covid
 - Devo usar luvas?
+- posso usar máscara?
 - devo usar máscaras?
 - usar uma máscara previne a covid?
 - qual é a melhor máscara facial contra o corona
@@ -3599,6 +3613,7 @@
 - O que fazer com uma máscara descartável usada?
 - O que fazer com uma máscara usada?
 - O que fazer com uma máscara médica usada?
+- Como descartar uma Máscara
 - descartar
 - como descartá-la?
 - como descartar a máscara?
@@ -3609,6 +3624,7 @@
 - Antes de colocar uma máscara médica.
 - Antes de usar uma máscara descartável.
 - Antes de usar uma máscara.
+- Como colocar uma Máscara?
 - Antes de usar uma máscara médica.
 - Como se usa uma máscara?
 - Como colocar uma máscara descartável?
@@ -4446,6 +4462,7 @@
 - O que é proibido fazer na quarentena?
 - O que posso fazer na quarentena?
 - O que não posso fazer na quarentena?
+- é permitido sair de casa?
 - O que pode ou não ser feito durante a quarentena?
 - O que pode ser feito durante a quarentena?
 - O que não pode ser feito durante a quarentena?

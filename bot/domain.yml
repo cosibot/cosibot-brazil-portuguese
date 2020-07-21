@@ -2813,14 +2813,9 @@ responses:
   - custom:
       answers:
       - type: ssml
-        ssml: <speak>Apenas use máscara se você estiver doente com sintomas de COVID-19,
-          especialmente tosse, ou cuidando de alguém que possa ter COVID-19. Máscaras
-          faciais descartáveis só podem ser usadas uma vez. Se você não está
-          doente ou está cuidando de alguém que está doente, está desperdiçando
-          uma máscara. Há uma escassez mundial de máscaras, por isso a OMS recomenda
-          que as pessoas usem máscaras com sabedoria.</speak>
+        ssml: <speak>As máscaras devem ser usadas como parte de uma estratégia abrangente de medidas para suprimir a transmissão e salvar vidas; o uso de uma máscara por si só não é suficiente para proporcionar um nível adequado de proteção contra a Covid 19. Você também deve manter uma distância física mínima de pelo menos 1 metro dos outros, limpar freqüentemente suas mãos e evitar tocar seu rosto e máscara.</speak>
       - type: html
-        text: <p>Apenas use máscara se você estiver doente com sintomas de COVID-19
+        text: <p>As máscaras devem ser usadas como parte de uma estratégia abrangente de medidas para suprimir a transmissão e salvar vidas; o uso de uma máscara por si só não é suficiente para proporcionar um nível adequado de proteção contra a COVID-19. Você também deve manter uma distância física mínima de pelo menos 1 metro dos outros, limpar freqüentemente suas mãos e evitar tocar seu rosto e máscara.</p>
       - type: youtube
         thumbnailURL: "https://www.youtube.com/watch?v=Ded_AxFfJoQ"
         youtubeId: "Ded_AxFfJoQ"
