@@ -1566,8 +1566,8 @@ responses:
           mais grave e compartilhe seu histórico de viagens recente com o seu médico.</speak>'
       - type: html
         text: <p>As seguintes medidas não são eficazes contra a COVID-2019 e podem
-          ser nocivas:<ul>>li>tabagismo;</li>li>li>tomar remédios tradicionais à
-          base de ervas;</li>li>li>usar máscaras múltiplas;</li>li>li>se auto-medicar
+          ser nocivas:<ul><li>tabagismo;</li><li>tomar remédios tradicionais à
+          base de ervas;</li><li>usar máscaras múltiplas;</li><li>se auto-medicar
           com antibióticos, por exemplo.</li></ul>Se você tiver febre, tosse e dificuldade
           em respirar, procure atendimento médico com antecedência para reduzir
           o risco de desenvolver uma infecção mais grave e compartilhe seu histórico
