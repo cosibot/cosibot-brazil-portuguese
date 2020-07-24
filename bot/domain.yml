@@ -476,7 +476,7 @@ responses:
           deve telefonar para seu médico ou departamento de saúde pública local,
           fornecendo detalhes de suas viagens e sintomas recentes.</speak>
       - type: html
-        text: <p>Quem voltou de uma área onde o Covid 19 está se espalhando deve
+        text: <p>Quem voltou de uma área onde o COVID-19 está se espalhando deve
           monitorar os sintomas por 14 dias e medir a temperatura duas vezes ao dia.
           Se você desenvolver até mesmo uma tosse leve ou febre baixa (por exemplo,
           uma temperatura de 37,3 graus Celsius ou mais), fique em casa e se auto-isole.
@@ -505,7 +505,7 @@ responses:
           viagem.</speak>
       - type: html
         text: <p>Certifique-se de ter as últimas informações sobre as áreas onde
-          o Covid 19 está se espalhando. Com base nessas informações, você deve
+          o COVID-19 está se espalhando. Com base nessas informações, você deve
           avaliar as vantagens e riscos relacionados aos próximos planos de viagem.<a
           href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice'
           target='_blank'>(1)</a></p>
@@ -608,7 +608,7 @@ responses:
       - type: html
         text: <p>O vírus que causa a COVID-19 e o que causa a Síndrome Respiratória
           Aguda (SRA) estão geneticamente relacionados entre si, mas são diferentes.
-          <br>A SRA é mais mortal, mas bem menos infecciosa do que a Covid 19. <br>Não
+          <br>A SRA é mais mortal, mas bem menos infecciosa do que a COVID-19. <br>Não
           existem surtos de SRA em nenhuma parte do mundo desde 2003.<a href='https://www.who.int/news-room/q-a-detail/q-a-coronaviruses'
           target='_blank'>(1)</a></p>
       - type: hints
@@ -739,8 +739,7 @@ responses:
           menor do que o surto da SRA de 2003. Entretanto, é muito maior do que a
           taxa de mortalidade por influenza sazonal.</speak>
       - type: html
-        text: <p>Resultados preliminares indicam que a taxa de mortalidade da Covid
-          19 é de vinte a trinta por mil pessoas diagnosticadas. Isto é significativamente
+        text: <p>Resultados preliminares indicam que a taxa de mortalidade da COVID-19 é de vinte a trinta por mil pessoas diagnosticadas. Isto é significativamente
           menor do que o surto da SRA de 2003. Entretanto, é muito maior do que a
           taxa de mortalidade por gripe sazonal.<a href='https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers'
           target='_blank'>(1)</a></p>
@@ -869,7 +868,7 @@ responses:
       - type: html
         text: <p>Síndrome respiratória aguda severa coronavirus 2 ou SRA Cov 2 é
           o nome do novo vírus porque está geneticamente relacionado com o coronavírus
-          responsável pelo surto da SRA de 2003. Covid 19 é o nome desta nova doença,
+          responsável pelo surto da SRA de 2003. COVID-19 é o nome desta nova doença,
           seguindo as diretrizes previamente desenvolvidas pela Organização Mundial
           para a Saúde Animal e Alimentação e Agricultura das Nações Unidas.<a
           href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it'
@@ -893,9 +892,9 @@ responses:
           do surto em Wuhan, China, em dezembro de 2019. O Covid 19 agora é uma pandemia
           que afeta muitos países do mundo.</speak>
       - type: html
-        text: <p>Covid 19 é a doença infecciosa causada pelo coronavírus, descoberto
+        text: <p>COVID-19 é a doença infecciosa causada pelo coronavírus, descoberto
           recentemente. Este novo vírus e doença eram desconhecidos antes do início
-          do surto em Wuhan, China, em dezembro de 2019. O Covid 19 agora é uma pandemia
+          do surto em Wuhan, China, em dezembro de 2019. O COVID-19 agora é uma pandemia
           que afeta muitos países do mundo.<a href='https://www.who.int/news-room/q-a-detail/q-a-coronaviruses'
           target='_blank'>(1)</a></p>
       - type: hints
@@ -920,12 +919,12 @@ responses:
           19. Embora semelhante, a mortalidade para o Covid 19 parece maior do que
           para a gripe, especialmente a gripe sazonal.</speak>
       - type: html
-        text: <p>Os vírus Covid 19 e gripe causam doenças respiratórias e são
+        text: <p>Os vírus COVID-19 e gripe causam doenças respiratórias e são
           transmitidos por contato, gotículas e fômites (superfícies ou objetos
-          contaminados). O intervalo serial para o vírus Covid 19 é estimado em
+          contaminados). O intervalo serial para o vírus COVID-19 é estimado em
           5-6 dias, enquanto para o vírus da gripe, o intervalo serial é de 3 dias.
           Isso significa que a gripe pode se espalhar mais rapidamente que o Covid
-          19. Embora semelhante, a mortalidade para o Covid 19 parece maior do que
+          19. Embora semelhante, a mortalidade para o COVID-19 parece maior do que
           para a gripe, especialmente a gripe sazonal.<a href='https://www.who.int/news-room/q-a-detail/q-a-similarities-and-differences-covid-19-and-influenza'
           target='_blank'>(1)</a></p>
       - type: hints
@@ -990,7 +989,7 @@ responses:
           infecções respiratórias que vão desde o resfriado comum até doenças
           mais graves como a Síndrome Respiratória do Oriente Médio (MERS) e a
           Síndrome Respiratória Aguda (SRA).O coronavírus descoberto mais recentemente
-          causa a doença de coronavírus Covid 19.<a href='https://www.who.int/news-room/q-a-detail/q-a-coronaviruses'
+          causa a doença de coronavírus COVID-19.<a href='https://www.who.int/news-room/q-a-detail/q-a-coronaviruses'
           target='_blank'>(1)</a></p>
       - type: hints
         options:
@@ -1027,7 +1026,7 @@ responses:
       - type: html
         text: <p>O "período de incubação" significa o tempo entre pegar o vírus
           e começar a ter sintomas da doença. <br>A maioria das estimativas do período
-          de incubação da Covid 19 varia de 1 a 14 dias, e é mais comum durar cinco
+          de incubação da COVID-19 varia de 1 a 14 dias, e é mais comum durar cinco
           dias.<a href='https://www.who.int/news-room/q-a-detail/q-a-coronaviruses'
           target='_blank'>(1)</a></p>
       - type: hints
@@ -1090,7 +1089,7 @@ responses:
           Essas observações podem explicar a vulnerabilidade dos idosos, usuários
           / fumantes de tabaco e hipertensos; eles também destacam a importância
           de identificar os fumantes como um grupo potencialmente vulnerável para
-          o Covid 19.<a href='https://www.ecdc.europa.eu/sites/default/files/documents/RRA-seventh-update-Outbreak-of-coronavirus-disease-COVID-19.pdf'
+          o COVID-19.<a href='https://www.ecdc.europa.eu/sites/default/files/documents/RRA-seventh-update-Outbreak-of-coronavirus-disease-COVID-19.pdf'
           target='_blank'>(1)</a></p>
   utter_covid_surfaces:
   - custom:
@@ -1359,7 +1358,7 @@ responses:
           ou usar um lenço de papel quando você tossir ou espirrar. Em seguida,
           elimine imediatamente o lenço usado. <br> Gotas espalham vírus e, seguindo
           uma boa higiene respiratória, você protege as pessoas ao seu redor de
-          vírus como resfriado, gripe e Covid 19.<a href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public'
+          vírus como resfriado, gripe e COVID-19.<a href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public'
           target='_blank'>(1)</a></p>
       - type: hints
         options:
@@ -1401,7 +1400,7 @@ responses:
           ou interromper seus surtos. No entanto, a situação é imprevisível, portanto
           verifique regularmente as últimas notícias.</speak>
       - type: html
-        text: <p>Fique atento às últimas informações sobre o surto de Covid 19,
+        text: <p>Fique atento às últimas informações sobre o surto de COVID-19,
           disponíveis no site da Organização Mundial da Saúde e através do Ministério
           da Saúde e as autoridades regionais de sáude pública. Muitos países
           ao redor do mundo já viram casos de Covid e em vários ocorreram surtos.
@@ -1435,7 +1434,7 @@ responses:
         text: <p>Quando alguém tosse ou espirra, borrifam pequenas gotículas de
           líquido do nariz ou da boca que podem conter algum tipo de vírus. Se você
           estiver muito perto, você pode respirar essas gotículas, incluindo o vírus
-          Covid 19, se a pessoa que está tossindo tem a doença. É por isso que
+          COVID-19, se a pessoa que está tossindo tem a doença. É por isso que
           é importante manter pelo menos 1 metro ou 3 pés de distância entre você
           e qualquer pessoa que esteja tossindo ou espirrando.<a href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public'
           target='_blank'>(1)</a></p>
@@ -1510,7 +1509,7 @@ responses:
           leve, até você se recuperar. Evitando o contato com outras pessoas e as
           visitas às instalações médicas permitirá que essas instalações funcionem
           com mais eficiência e ajudará a proteger você e outras pessoas de possíveis
-          vírus Covid 19 e outros.<a href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public'
+          vírus COVID-19 e outros.<a href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public'
           target='_blank'>(1)</a></p>
       - type: hints
         options:
@@ -1627,8 +1626,7 @@ responses:
           febre, tosse e dificuldade em respirar, procure atendimento médico e ligue
           com antecedência. Siga as instruções da sua autoridade sanitária local.</speak>'
       - type: html
-        text: '<p>Você pode reduzir suas chances de ser infectado ou espalhar o  Covid
-          19 tomando algumas precauções simples: <ul><li> limpe regularmente suas
+        text: '<p>Você pode reduzir suas chances de ser infectado ou espalhar o  COVID-19 tomando algumas precauções simples: <ul><li> limpe regularmente suas
           mãos com uma massagem a base de álcool ou lave-as com água e sabão;</li>
           <li>mantenha pelo menos 1 metro ou 3 pés de distância entre você e qualquer
           pessoa que esteja tossindo ou espirrando; </li> <li>evite tocar nos olhos,
@@ -1869,7 +1867,7 @@ responses:
         text: <p>As autoridades nacionais podem decidir testar apenas subgrupos de
           casos suspeitos com base na capacidade nacional para testar, na disponibilidade
           dos equipamentos necessários para testes, no nível de transmissão comunitária
-          do Covid 19 ou em qualquer outro critério.<a href='https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers'
+          do COVID-19 ou em qualquer outro critério.<a href='https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers'
           target='_blank'>(1)</a></p>
   utter_test_virus:
   - custom:
@@ -2020,10 +2018,10 @@ responses:
           é possível pegar Covid 19 de alguém que tenha, por exemplo, apenas uma
           tosse leve e não se sinta mal.</speak>
       - type: html
-        text: <p>O risco de pegar Covid 19 de alguém sem sintomas é muito baixo.
-          No entanto, muitas pessoas com Covid 19 apresentam apenas sintomas leves.
+        text: <p>O risco de pegar COVID-19 de alguém sem sintomas é muito baixo.
+          No entanto, muitas pessoas com COVID-19 apresentam apenas sintomas leves.
           Isto é particularmente verdadeiro nos estágios iniciais da doença. Portanto,
-          é possível pegar Covid 19 de alguém que tenha, por exemplo, apenas uma
+          é possível pegar COVID-19 de alguém que tenha, por exemplo, apenas uma
           tosse leve e não se sinta mal.<a href='https://www.who.int/news-room/q-a-detail/q-a-coronaviruses'
           target='_blank'>(1)</a></p>
       - type: hints
@@ -2049,7 +2047,7 @@ responses:
           e o consumo de produtos de animais crus ou mal cozidos.</speak>
       - type: html
         text: <p>Coronavírus são de uma grande família de vírus que são comuns
-          em animais. Possíveis fontes animais de Covid 19 ainda não foram confirmadas.
+          em animais. Possíveis fontes animais de COVID-19 ainda não foram confirmadas.
           Para se proteger, ao visitar mercados de animais vivos, evite o contato
           direto com animais e superfícies em contato com animais. Garanta sempre
           boas práticas de segurança alimentar. Manuseie carne crua, leite ou órgãos
@@ -2077,7 +2075,7 @@ responses:
           um risco, é importante limpar as mãos regularmente, depois de usar o banheiro
           e antes de comer.</speak>
       - type: html
-        text: <p>O risco de pegar Covid 19 a partir das fezes de uma pessoa infectada
+        text: <p>O risco de pegar COVID-19 a partir das fezes de uma pessoa infectada
           parece ser baixo. Enquanto as investigações iniciais sugerem que o vírus
           pode estar presente nas fezes em alguns casos, a propagação através desta
           rota não é uma característica principal do surto. No entanto, por ser
@@ -2178,12 +2176,12 @@ responses:
           portanto, não há evidências de que os alimentos importados para a União
           Européia de acordo com os regulamentos aplicáveis de saúde pública e
           animal, representem um risco para a saúde dos cidadãos da UE em relação
-          ao COVID -19. O principal modo de transmissão é de pessoa para pessoa.</speak>
+          ao Covid 19. O principal modo de transmissão é de pessoa para pessoa.</speak>
       - type: html
         text: <p>Não houve relato de transmissão da COVID-19 via alimentos e, portanto,
           não há evidências de que os alimentos importados para a União Européia
           de acordo com os regulamentos aplicáveis de saúde pública e animal, representem
-          um risco para a saúde dos cidadãos da UE em relação ao COVID -19. O
+          um risco para a saúde dos cidadãos da UE em relação ao COVID-19. O
           principal modo de transmissão é de pessoa para pessoa.<a href='https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers'
           target='_blank'>(1)</a></p>
   utter_spread_general:
@@ -2198,12 +2196,12 @@ responses:
           podem pegar o Covid 19 se respirarem gotículas de uma pessoa com Covid
           19 que tosse ou exala gotículas.</speak>
       - type: html
-        text: <p>Covid 19 pode passar de pessoa para pessoa através de pequenas gotículas
+        text: <p>COVID-19 pode passar de pessoa para pessoa através de pequenas gotículas
           do nariz ou da boca que são espalhadas quando uma pessoa com o vírus tosse
           ou exala. Essas gotículas pousam sobre objetos e superfícies ao redor
           da pessoa. Outras pessoas então pegam tocando nesses objetos ou superfícies
           e depois tocando em seus olhos, nariz ou boca. <br>As pessoas também podem
-          pegar o Covid 19 se respirarem gotículas de uma pessoa com Covid 19 que
+          pegar o COVID-19 se respirarem gotículas de uma pessoa com COVID-19 que
           tosse ou exala gotículas.<a href='https://www.who.int/news-room/q-a-detail/q-a-coronaviruses'
           target='_blank'>(1)</a></p>
       - type: hints
@@ -2378,14 +2376,14 @@ responses:
           pode postergar a disseminação da doença em um país ou em uma área ou
           postergar o pico de uma epidemia em uma área onde a transmissão local
           está em curso, ou ambos. Recomenda-se que os contatos de pacientes com
-          Covid 19 confirmados em laboratório sejam colocados em quarentena por 14
+          COVID-19 confirmados em laboratório sejam colocados em quarentena por 14
           dias.<a href='https://www.who.int/publications-detail/considerations-for-quarantine-of-individuals-in-the-context-of-containment-for-coronavirus-disease-(covid-19)'
           target='_blank'>(1)</a></p>
   utter_myth_transmission_hot_areas:
   - custom:
       answers:
       - type: ssml
-        ssml: <speak>Segundo as evidências até o momento, o vírus da COVID-19 pode
+        ssml: <speak>Segundo as evidências até o momento, o vírus da Covid 19 pode
           ser transmitido em todas as áreas, incluindo áreas com clima quente e
           úmido. Independentemente do clima, adote medidas de proteção se você
           vive ou viaja para uma área com Covid 19.</speak>
