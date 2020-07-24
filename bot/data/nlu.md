@@ -5088,7 +5088,7 @@
 - Quando eu voltar da viagem.
 - apos viajar.
 
-## intent:travel_breat_before
+## intent:travel_before
 - Antes da viagem.
 - Antes de viajar.
 - tenho um horário de viagem.
