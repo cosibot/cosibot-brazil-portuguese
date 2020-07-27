@@ -134,3 +134,4 @@ bot/story_graph.dot
 scripts/python/domain_answers.csv
 scripts/python/domain_answers_updated.csv
 .vscode/settings.json
+bot/robo-manifest.json
