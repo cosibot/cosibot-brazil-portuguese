@@ -609,13 +609,13 @@ responses:
       - type: ssml
         ssml: <speak>O vírus que causa a Covid 19 e o que causa a Síndrome Respiratória
           Aguda Grave estão geneticamente relacionados entre si, mas são diferentes.
-          A SRA é mais mortal, mas bem menos infecciosa do que a Covid 19. Não existem
-          surtos de SRA em nenhuma parte do mundo desde 2003.</speak>
+          A Sars é mais mortal, mas bem menos infecciosa do que a Covid 19. Não existem
+          surtos de Sars em nenhuma parte do mundo desde 2003.</speak>
       - type: html
         text: <p>O vírus que causa a COVID-19 e o que causa a Síndrome Respiratória
-          Aguda (SRA) estão geneticamente relacionados entre si, mas são diferentes.
-          <br>A SRA é mais mortal, mas bem menos infecciosa do que a COVID-19. <br>Não
-          existem surtos de SRA em nenhuma parte do mundo desde 2003.<a href='https://www.who.int/news-room/q-a-detail/q-a-coronaviruses'
+          Aguda (SARS) estão geneticamente relacionados entre si, mas são diferentes.
+          <br>A SARS é mais mortal, mas bem menos infecciosa do que a COVID-19. <br>Não
+          existem surtos de SARS em nenhuma parte do mundo desde 2003.<a href='https://www.who.int/news-room/q-a-detail/q-a-coronaviruses'
           target='_blank'>(1)</a></p>
       - type: hints
         options:
@@ -674,18 +674,18 @@ responses:
       answers:
       - type: ssml
         ssml: <speak>Experiências de surtos anteriores de coronavírus relacionados,
-          como o coronavírus da Síndrome Respiratória Aguda Grave (SRA-CoV) e o
-          coronavírus da síndrome respiratória do Oriente Médio (MERS-CoV) mostram
+          como o coronavírus da Síndrome Respiratória Aguda Grave (Sars Cov) e o
+          coronavírus da síndrome respiratória do Oriente Médio (Mers Cov) mostram
           que a transmissão pelo consumo de alimentos não ocorreu. Até o momento,
-          não houve relatos de transmissão do vírus SARS CoV 2 por meio de alimentos,
+          não houve relatos de transmissão do vírus Sars Cov 2 por meio de alimentos,
           no entanto, foram expressas preocupações sobre o potencial desses vírus
           persistirem em alimentos crus de origem animal.</speak>
       - type: html
         text: <p>Experiências de surtos anteriores de coronavírus relacionados,
-          como o coronavírus da Síndrome Respiratória Aguda Grave (SRA-CoV) e o
+          como o coronavírus da Síndrome Respiratória Aguda Grave (SARS-CoV) e o
           coronavírus da síndrome respiratória do Oriente Médio (MERS-CoV) mostram
           que a transmissão pelo consumo de alimentos não ocorreu. Até o momento,
-          não houve relatos de transmissão do vírus SARS CoV 2 por meio de alimentos,
+          não houve relatos de transmissão do vírus SARS-CoV-2 por meio de alimentos,
           no entanto, foram expressas preocupações sobre o potencial desses vírus
           persistirem em alimentos crus de origem animal.<a href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports'
           target='_blank'>(1)</a></p>
@@ -742,11 +742,11 @@ responses:
       - type: ssml
         ssml: <speak>Resultados preliminares indicam que a taxa de mortalidade da
           Covid 19 é de vinte a trinta por mil pessoas diagnosticadas. Isto é significativamente
-          menor do que o surto da SRA de 2003. Entretanto, é muito maior do que a
+          menor do que o surto da Sars de 2003. Entretanto, é muito maior do que a
           taxa de mortalidade por influenza sazonal.</speak>
       - type: html
         text: <p>Resultados preliminares indicam que a taxa de mortalidade da COVID-19 é de vinte a trinta por mil pessoas diagnosticadas. Isto é significativamente
-          menor do que o surto da SRA de 2003. Entretanto, é muito maior do que a
+          menor do que o surto da SARS de 2003. Entretanto, é muito maior do que a
           taxa de mortalidade por gripe sazonal.<a href='https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers'
           target='_blank'>(1)</a></p>
   utter_covid_crisis_howlong:
@@ -780,24 +780,24 @@ responses:
       answers:
       - type: ssml
         ssml: <speak>É muito cedo para saber quanto tempo durará a resposta imunológica
-          protetora contra a SRA CoV 2, uma vez que isto irá requerer estudos serológicos
+          protetora contra a Sars Cov 2, uma vez que isto irá requerer estudos serológicos
           longitudinais que acompanham a imunidade dos doentes durante um período
           de tempo prolongado. Evidências de outras infecções por coronavírus,
-          como SRA e MERS, indicam que a imunidade pode durar até três anos e é
+          como Sars e Mers, indicam que a imunidade pode durar até três anos e é
           altamente improvável a reinfecção com a mesma cepa de coronavírus em
           circulação sazonal na mesma estação ou na estação seguinte. Isso também
-          pode se aplicar à SARS CoV 2, pois existem evidências emergentes de estudos
+          pode se aplicar à Sars Cov 2, pois existem evidências emergentes de estudos
           iniciais que sugerem que os indivíduos desenvolvem anticorpos após a infecção
           e provavelmente são imunes à reinfecção a curto prazo.</speak>
       - type: html
         text: <p>É muito cedo para saber quanto tempo durará a resposta imunológica
-          protetora contra a SRA CoV 2, uma vez que isto irá requerer estudos serológicos
+          protetora contra a SARS-CoV-2, uma vez que isto irá requerer estudos serológicos
           longitudinais que acompanham a imunidade dos doentes durante um período
           de tempo prolongado. Evidências de outras infecções por coronavírus,
-          como SRA e MERS, indicam que a imunidade pode durar até três anos e é
+          como SARS e MERS, indicam que a imunidade pode durar até três anos e é
           altamente improvável a reinfecção com a mesma cepa de coronavírus em
           circulação sazonal na mesma estação ou na estação seguinte. Isso também
-          pode se aplicar à SARS CoV 2, pois existem evidências emergentes de estudos
+          pode se aplicar à SARS-CoV-2, pois existem evidências emergentes de estudos
           iniciais que sugerem que os indivíduos desenvolvem anticorpos após a infecção
           e provavelmente são imunes à reinfecção a curto prazo.<a href='https://www.ecdc.europa.eu/sites/default/files/documents/RRA-seventh-update-Outbreak-of-coronavirus-disease-COVID-19.pdf'
           target='_blank'>(1)</a></p>
@@ -865,16 +865,16 @@ responses:
   - custom:
       answers:
       - type: ssml
-        ssml: <speak>Síndrome respiratória aguda severa coronavirus 2 ou SRA Cov
+        ssml: <speak>Síndrome respiratória aguda severa coronavirus 2 ou Sars Cov
           2 é o nome do novo vírus porque está geneticamente relacionado com o
-          coronavírus responsável pelo surto da SRA de 2003. Covid 19 é o nome
+          coronavírus responsável pelo surto da Sars de 2003. Covid 19 é o nome
           desta nova doença, seguindo as diretrizes previamente desenvolvidas pela
           Organização Mundial para a Saúde Animal e Alimentação e Agricultura
           das Nações Unidas.</speak>
       - type: html
-        text: <p>Síndrome respiratória aguda severa coronavirus 2 ou SRA Cov 2 é
+        text: <p>Síndrome respiratória aguda severa coronavirus 2 ou SARS-Cov-2 é
           o nome do novo vírus porque está geneticamente relacionado com o coronavírus
-          responsável pelo surto da SRA de 2003. COVID-19 é o nome desta nova doença,
+          responsável pelo surto da SARS de 2003. COVID-19 é o nome desta nova doença,
           seguindo as diretrizes previamente desenvolvidas pela Organização Mundial
           para a Saúde Animal e Alimentação e Agricultura das Nações Unidas.<a
           href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it'
@@ -987,14 +987,14 @@ responses:
       - type: ssml
         ssml: <speak>Coronavírus são uma grande família de vírus que podem causar
           infecções respiratórias que vão desde o resfriado comum até doenças
-          mais graves como a Síndrome Respiratória do Oriente Médio (MERS) e a
-          Síndrome Respiratória Aguda (SRA).O coronavírus descoberto mais recentemente
+          mais graves como a Síndrome Respiratória do Oriente Médio (Mers) e a
+          Síndrome Respiratória Aguda (Sars).O coronavírus descoberto mais recentemente
           causa a doença de coronavírus Covid 19.</speak>
       - type: html
         text: <p>Coronavírus são uma grande família de vírus que podem causar
           infecções respiratórias que vão desde o resfriado comum até doenças
           mais graves como a Síndrome Respiratória do Oriente Médio (MERS) e a
-          Síndrome Respiratória Aguda (SRA).O coronavírus descoberto mais recentemente
+          Síndrome Respiratória Aguda (SARS).O coronavírus descoberto mais recentemente
           causa a doença de coronavírus COVID-19.<a href='https://www.who.int/news-room/q-a-detail/q-a-coronaviruses'
           target='_blank'>(1)</a></p>
       - type: hints
@@ -1073,7 +1073,7 @@ responses:
           relatadas é semelhante à prevalência dessas condições nas faixas etárias
           dos idosos na China; portanto, elas podem ser substitutas apenas do aumento
           da idade. Uma expressão gênica mais elevada da ECA (enzima conversora
-          de angiotensina II) pode estar ligada a uma maior suscetibilidade à SARS
+          de angiotensina II) pode estar ligada a uma maior suscetibilidade à Sars
           CoV 2. Foi demonstrado que a expressão da ECA 2 nos tecidos pulmonares
           aumenta com a idade, o uso de tabaco e com algum tratamento hipertensivo.
           Essas observações podem explicar a vulnerabilidade dos idosos, usuários
@@ -1089,8 +1089,7 @@ responses:
           relatadas é semelhante à prevalência dessas condições nas faixas etárias
           dos idosos na China; portanto, elas podem ser substitutas apenas do aumento
           da idade. Uma expressão gênica mais elevada da ECA (enzima conversora
-          de angiotensina II) pode estar ligada a uma maior suscetibilidade à SARS
-          CoV 2. Foi demonstrado que a expressão da ECA 2 nos tecidos pulmonares
+          de angiotensina II) pode estar ligada a uma maior suscetibilidade à SARS-CoV-2. Foi demonstrado que a expressão da ECA 2 nos tecidos pulmonares
           aumenta com a idade, o uso de tabaco e com algum tratamento hipertensivo.
           Essas observações podem explicar a vulnerabilidade dos idosos, usuários
           / fumantes de tabaco e hipertensos; eles também destacam a importância
@@ -1491,12 +1490,12 @@ responses:
       - type: ssml
         ssml: <speak> Os desinfectantes à base de álcool (etanol, propan-2-ol, propan1-ol)
           demonstraram reduzir significativamente a contaminação dos vírus envolvidos
-          como o SRA-CoV-2, em concentrações de 70-80% com um minuto de tempo de
+          como o Sars Cov 2, em concentrações de 70-80% com um minuto de tempo de
           exposição.</speak>
       - type: html
         text: <p>Os desinfectantes à base de álcool (etanol, propan-2-ol, propan1-ol)
           demonstraram reduzir significativamente o grau de contaminação dos vírus
-          envolvidos como o SRA-CoV-2, em concentrações de 70-80% com um minuto
+          envolvidos como o SARS-CoV-2, em concentrações de 70-80% com um minuto
           de tempo de exposição.<a href='https://www.ecdc.europa.eu/sites/default/files/documents/Environmental-persistence-of-SARS_CoV_2-virus-Options-for-cleaning2020-03-26_0.pdf'
           target='_blank'>(1)</a></p>
   utter_prevention_home:
@@ -2494,11 +2493,11 @@ responses:
       answers:
       - type: ssml
         ssml: <speak>Antibióticos não funcionam contra vírus, apenas contra bactérias.
-          A SRA-CoV-2 é um vírus e, portanto, os antibióticos não devem ser usados
+          A sars Cov 2 é um vírus e, portanto, os antibióticos não devem ser usados
           como meio de prevenção ou tratamento.</speak>
       - type: html
         text: <p>Antibióticos não funcionam contra vírus, apenas bactérias. <br>A
-          SRA-CoV-2 é um vírus e, portanto, os antibióticos não devem ser usados
+          SARS-CoV-2 é um vírus e, portanto, os antibióticos não devem ser usados
           como meio de prevenção ou tratamento.<a href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters'
           target='_blank'>(1)</a></p>
       - type: hints
@@ -2516,7 +2515,7 @@ responses:
       answers:
       - type: ssml
         ssml: <speak>A probabilidade de uma pessoa infectada contaminar mercadorias
-          é baixa e o risco de pegar o vírus que causa a COVID-19 de uma embalagem
+          é baixa e o risco de pegar o vírus que causa a Covid 19 de uma embalagem
           que foi transportada, movida e exposta a diferentes condições e temperaturas
           também é baixo.</speak>
       - type: html
@@ -2539,7 +2538,7 @@ responses:
   - custom:
       answers:
       - type: ssml
-        ssml: <speak>Tomar um banho quente não vai te impedir de pegar a COVID-19.
+        ssml: <speak>Tomar um banho quente não vai te impedir de pegar a Covid 19.
           Sua temperatura corporal normal permanece em torno de 36,5 graus Celcius
           a 37 graus Celcius, independentemente da temperatura do seu banho ou ducha.
           Na verdade, tomar um banho quente com água extremamente quente pode ser
@@ -2620,12 +2619,12 @@ responses:
       answers:
       - type: ssml
         ssml: <speak>O óleo de gergelim não mata o novo coronavírus. Existem alguns
-          desinfetantes químicos que podem matar o SRA-Cov-2 em superfícies. Estes
+          desinfetantes químicos que podem matar o Sars Cov 2 em superfícies. Estes
           incluem desinfetantes à base de cloro/alvejante,  solventes, etanol a 75%,
           ácido peracético e clorofórmio.</speak>
       - type: html
         text: <p>O óleo de gergelim não mata o novo coronavírus. <br>Existem alguns
-          desinfetantes químicos que podem matar o SRA-CoV-2 em superfícies. Estes
+          desinfetantes químicos que podem matar o SARS-CoV-2 em superfícies. Estes
           incluem desinfetantes à base de cloro/alvejante, solventes, etanol a 75%,
           ácido peracético e clorofórmio.<a href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters'
           target='_blank'>(1)</a></p>
