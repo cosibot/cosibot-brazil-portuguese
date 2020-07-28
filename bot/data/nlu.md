@@ -2270,6 +2270,8 @@
 - Cosibot
 - O que é Cosibot?
 - quem é cosibot?
+- Sobre o Cosibot.
+- Fale-me sobre o Cosibot.
 
 ## intent:covid_crisis_howlong
 - Você acredita que é possível se erradicar o coronavírus? 
@@ -2415,7 +2417,6 @@
 - O que é [Covid 19]{"entity": "virus", "value": "COVID"}
 - O que é um [COVID-19]{"entity": "virus", "value": "COVID"}
 - O que é o novo [coronavírus]{"entity": "virus", "value": "COVID"}
-- Qual é a origem do surto?
 - Qual é a diferença entre [Covid-19]{"entity": "virus", "value": "COVID"} e Corona?
 - A pandemia começou em Wuhan?
 - Olá, eu quero saber sobre o vírus corona
@@ -2433,6 +2434,43 @@
 - Por onde começou o surto?
 - Onde começou o surto?
 - Sobre COVID-19
+- O que é o COVID-19?
+- O que é a COVID-19?
+- O que é COVID-19?
+- Sobre COVID-19.
+- COVID-19 informação
+- Sobre COVID 19
+- Sobre o novo vírus COVID-19
+- Eu não sei o que é COVID-19
+- Eu não sei o que é novo coronavírus COVID-19
+- Eu não sei o que é a COVID-19
+- Informações sobre COVID-19
+- Informações sobre novo coronavírus COVID-19
+- Informações sobre o COVID-19
+- Conte-me mais sobre COVID-19
+- Me conte mais sobre o COVID-19
+- Me fale mais sobre o COVID-19
+- Me conte mais sobre  a novela do COVID-19
+- Diga-me o que é o COVID-19
+- Diga-me o que é COVID-19
+- Diga-me o que é um COVID-19
+- Diga-me o que é o COVID-19
+- O que é COVID-19
+- O que é um COVID-19
+- O que é o novo COVID-19
+- Qual é a diferença entre COVID-19 e Corona?
+- A pandemia começou em Wuhan?
+- Olá, eu quero saber sobre o vírus corona
+- Olá, fale sobre a COVID-19
+- info about COVID-19
+- informações sobre o COVID-19
+- origem pandêmica
+- me fale sobre o surto
+- E sobre COVID-19
+- E quanto ao novo COVID-19
+- O que é essa doença?
+- O que é este vírus?
+- O que é o [COVID-19?
 
 ## intent:covid_meaning
 - O que significa o nome [COVID-19]{"entity": "virus", "value": "COVID"}?
@@ -2458,6 +2496,12 @@
 - Por que o [COVID-19]{"entity": "virus", "value": "COVID"} foi nomeado assim?
 - Por que a doença foi batizada assim?
 - Por que o vírus foi nomeado assim?
+- Qual a origem do nome do virus?
+- Qual a origem do nome da doença?
+- Como foi criado o nome do virus?
+- Como foi criado o nome da doença?
+- Significado do nome desse virus.
+- Significado do nome dessa doença.
 
 ## intent:covid_mortality_rate
 - Percentual de morte,
@@ -2465,20 +2509,27 @@
 - Porcentagem de óbitos.
 - Qual é a taxa de mortalidade?
 - Qual o percentual de mortes?
+- Qual a taxa de mortalidade?
+- Probabilidade de morte por COVID-19?
 
 ## intent:covid_origins
 - Os animais são responsáveis pela transmissão do [COVID-19]{"entity": "virus", "value": "COVID"} nas pessoas?
 - Você poderia me falar sobre a evolução da propagação do [Covid-19]{"entity": "virus", "value": "COVID"}?
 - Qual a origem do vírus?
+- Qual a origem da COVID-19?
+- QUal a origem do COVID-19?
 - De onde se originou o vírus?
 - Qual é a origem do vírus?
 - De onde vem o [Covid-19]{"entity": "virus", "value": "COVID"}?
 - Qual é a origem da [Covid-19]{"entity": "virus", "value": "COVID"}?
+- Qual é a origem do surto?
 
 ## intent:covid_pandemic
 - Qual o significado da palavra pandemia?
 - O que é uma pandemia?
 - o que é pandêmico?
+- Significado de pandemia.
+- Me explique o que é pandemia.
 
 ## intent:covid_preexisting_illness
 - Sobre mais pessoas com maior risco.
