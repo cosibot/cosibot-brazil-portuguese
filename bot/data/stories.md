@@ -108,6 +108,11 @@ About Covid-19
 * covid_info
   - utter_covid_info
 
+## covid_info
+* covid_info{"virus": "COVID"}
+  - slot{"virus": "COVID"}
+  - utter_covid_info
+
 ## covid_meaning
 * covid_meaning
   - utter_covid_meaning
@@ -122,6 +127,11 @@ About Covid-19
 
 ## covid_sars
 * covid_sars
+  - utter_covid_sars
+
+## covid_sars
+* covid_sars{"virus": "SARS"}
+  - slot{"virus": "SARS"}
   - utter_covid_sars
 
 ## influenza

@@ -71,6 +71,9 @@ slots:
     - inexistent-country
     - wrong-country
     - not-ok
+  virus:
+    type: text
+
 entities:
 - virus
 - language
@@ -78,6 +81,7 @@ entities:
 - preferred_lang
 - country_code
 - world_region
+
 actions:
 - action_get_date
 - action_get_time
@@ -229,6 +233,7 @@ actions:
 - utter_fallback_request_error
 - utter_fallback_request_hasdata
 - utter_command_change_bot
+
 intents:
 - start_dialogue
 - start-dialogue
@@ -379,6 +384,7 @@ intents:
 - sesame_oil
 - visors
 - bot_change_bot
+
 responses:
   utter_command_change_bot:
   - custom:

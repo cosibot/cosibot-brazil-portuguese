@@ -26,7 +26,7 @@ policies:
   #    max_history: 10
   #    state_featurizer:
   #      - name: BinarySingleStateFeaturizer
-  - name: MemoizationPolicy
+  - name: AugmentedMemoizationPolicy
     max_history: 5
   - name: TEDPolicy
     max_history: 5
