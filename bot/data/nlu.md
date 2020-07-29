@@ -2112,6 +2112,7 @@
 - Você é ótimo!
 - Você é útil.
 - Você é adorável.
+- você é muito atenciosa
 - Você é muito legal.
 - Você é realmente essencial.
 - Você é tão fantástico.
@@ -3746,6 +3747,13 @@
 - se eu me cobrir de álcool
 - se eu me cobrir de álcool o vírus vai sair
 
+## intent:myth_5G
+- O coronavirus é transmitido pela rede 5G?
+- Coronavirus e rede 5G.
+- 5G.
+- Rede 5G propaga o virus.
+- Rede 5G.
+
 ## intent:myth_cold_weather
 - A neve fria pode matar o [COVID-19]{"entity": "virus", "value": "COVID"}?
 - A neve fria pode matar o [COVID]{"entity": "virus", "value": "COVID"} ?
@@ -3820,6 +3828,16 @@
 - O banho quente previne a doença [novo vírus corona]{"entity": "virus", "value": "COVID"}.
 - O banho quente impede o [novo coronavírus]{"entity": "virus", "value": "COVID"}.
 - A água quente pode matar o vírus?
+
+## intent:myth_garlic
+- Sobre alho
+- Alho
+- Alho previne.
+- Alho previne desse virus?
+- Será que alho previne?
+- Será que alho previne desse virus?
+- Alho previne dessa doença?
+- Será que alho previne dessa doença?
 
 ## intent:myth_packages
 - É seguro receber uma carta de qualquer área onde [COVID-19]{"entity": "virus", "value": "COVID"} tenha sido detectado?
