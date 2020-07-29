@@ -1,6 +1,6 @@
 {
     "base_version": "rasa-1.10.0",
-    "bot_id": "covid-int-br",
+    "bot_id": "covid-pt-br",
     "exclusions": [
         "__pycache__",
         "*.py[cod]",
