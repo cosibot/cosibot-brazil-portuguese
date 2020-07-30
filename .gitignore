@@ -137,3 +137,6 @@ scripts/python/domain_answers_updated.csv
 bot/robo-manifest.json
 bot/robo-manifest.json
 bot/robo-manifest.json
+bot/robo-manifest.json
+bot/.botignore
+bot/robo-manifest.json
