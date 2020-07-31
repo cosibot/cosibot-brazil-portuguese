@@ -2251,6 +2251,8 @@
 - E quanto aos coronavírus
 
 ## intent:covid_aftereffects_immunity
+- Quem pega uma vez pode voltar a pegar novamente?
+- Quem pega uma vez corre o risco de pegar novamente?
 - Depois de ter sido infectado, sou imune ao vírus?
 - Depois de se recuperarem, as pessoas se tornam imunes?
 - Eu posso ficar doente duas vezes?
@@ -4709,6 +4711,7 @@
 - Sobre como o coronavírus se espalha.
 - Sobre como o coronavírus se dissemina.
 - Sobre como se propaga.
+- Como o virus se espalha?
 - Sobre como se espalha.
 - Sobre como se dissemina.
 - Sobre como a doença se propaga.
