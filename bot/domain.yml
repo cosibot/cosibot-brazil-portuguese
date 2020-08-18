@@ -2831,6 +2831,12 @@ responses:
         - label: Medidas preventivas
           value: Medidas preventivas
   utter_further_questions:
+    - custom:
+      answers:
+      - type: ssml
+        ssml: <speak>Foi um prazer. Você tem mais alguma pergunta que eu possa responder?</speak>
+      - type: text
+        text: Foi um prazer.<br>Você tem mais alguma pergunta que eu possa responder?
   - custom:
       answers:
       - type: ssml
