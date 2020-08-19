@@ -2837,26 +2837,26 @@ responses:
         ssml: <speak>Foi um prazer. Você tem mais alguma pergunta que eu possa responder?</speak>
       - type: text
         text: Foi um prazer.<br>Você tem mais alguma pergunta que eu possa responder?
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>O que mais posso fazer por você?</speak>
       - type: text
         text: O que mais posso fazer por você?
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>Como posso ajudá-lo ainda mais?</speak>
       - type: text
         text: Como posso ajudá-lo ainda mais?
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>Você tem alguma pergunta a mais que eu possa responder?</speak>
       - type: text
         text: Você tem alguma pergunta a mais que eu possa responder?
   utter_news_request_hasdata:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak> Você pode ler sobre as últimas notícias nos links abaixo:</speak>
@@ -2873,7 +2873,7 @@ responses:
         - label: Sintomas
           value: Sintomas
   utter_news_request_emptyanswer:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>Talvez eu não tenha as informações relacionadas com notícias.
@@ -2892,7 +2892,7 @@ responses:
         - title: BBC
           url: https://www.bbc.com/news/explainers
   utter_want_to_add_country:
-  - custom:
+    - custom:
       answers:
       - type: text
         text: Você quer adicionar um país ou região específica do mundo à sua
@@ -2907,14 +2907,14 @@ responses:
         - label: Não
           value: Não
   utter_ask_which_country:
-  - custom:
+    - custom:
       answers:
       - type: text
         text: Que país devo adicionar à sua busca?
       - type: ssml
         ssml: <speak>Qual país devo adicionar à sua busca?</speak>
   utter_covid_no_country_current_statistics:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>O país que você está procurando não está disponível. Para
@@ -2939,7 +2939,7 @@ responses:
         - label: Sintomas
           value: Sintomas
   utter_covid_situation:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>A última atualização indica que {country} possui um total
@@ -2950,7 +2950,7 @@ responses:
           casos ativos. {total_recovered} recuperados e {total_deaths} não resistiram
           à COVID-19.
   utter_covid_situation_deaths:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>Segundo a última atualização, {country} possui um total de
@@ -2959,7 +2959,7 @@ responses:
         text: De acordo com a última atualização, {country} possui um total de
           {total_deaths} fatalidades da COVID-19.
   utter_covid_situation_infected:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>Os últimos dados disponíveis indicam que neste momento {country}
@@ -2968,7 +2968,7 @@ responses:
         text: Os últimos dados disponíveis indicam que neste momento {country}
           possui um total de {active_cases} casos infectados.
   utter_covid_situation_infected_critical:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>A última atualização disponível em {country} aponta para
@@ -2979,7 +2979,7 @@ responses:
           de {total_infected_critical} infectados hospitalizados na unidade de terapia
           intensiva.
   utter_covid_situation_last_update:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>No momento em {country} há um valor total de {active_cases}
@@ -2989,7 +2989,7 @@ responses:
         text: No momento em {country} há um valor total de {active_cases} casos ativos.
           Na última atualização disponível {new_cases} foram identificados novos
           casos.
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>Os últimos dados disponíveis indicam que neste momento {country}
@@ -3000,7 +3000,7 @@ responses:
         text: Os últimos dados disponíveis indicam que neste momento {country} tem
           um  total de {total_cases} casos dos quais {active_cases} ainda estão ativos,
           {total_recovered} estão totalmente recuperados e {total_deaths} não sobreviveram.
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>Os últimos dados disponíveis indicam que neste momento {country}
@@ -3008,7 +3008,7 @@ responses:
       - type: text
         text: Os últimos dados disponíveis indicam que neste momento {country}
           possui um total de {active_cases} casos ativos.
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>No momento em {country} há uma quantidade total de {total_cases}
@@ -3021,7 +3021,7 @@ responses:
           recuperados e {total_deaths} não sobreviveram. Na última atualização
           houve {new_cases} casos novos e {new_deaths} não sobreviveram.
   utter_covid_situation_recovered:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>Os últimos dados indicam que, no momento, {country}, possui
@@ -3030,7 +3030,7 @@ responses:
         text: Os últimos dados indicam que, no momento, {country}, possui um total
           de {total_recovered} casos recuperados.
   utter_covid_situation_tested:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>A última atualização de dados indica que em {country}, {total_tests}
@@ -3039,7 +3039,7 @@ responses:
         text: A última atualização de dados indica que em {country}, {total_tests}
           testes foram realizados desde o início da coleta de dados.
   utter_fallback_first:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>Peço desculpas, mas no momento não tenho resposta para a sua
@@ -3052,7 +3052,7 @@ responses:
           sobre medidas preventivas, sintomas associados com a doença ou como o vírus
           se espalha.
   utter_fallback_request_hasdata:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>Fazendo uma pesquisa no site da Organização Mundial da Saúde,
@@ -3061,7 +3061,7 @@ responses:
         text: 'Fazendo uma pesquisa no site da Organização Mundial da Saúde, encontrei
           os seguintes links:'
   utter_fallback_request_emptyanswer:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>Não tenho a informação que você está procurando. Se você
@@ -3076,7 +3076,7 @@ responses:
         - title: Novo coronavirus (COVID-19)
           url: https://www.who.int/emergencies/diseases/novel-coronavirus-2019
   utter_fallback_request_error:
-  - custom:
+    - custom:
       answers:
       - type: ssml
         ssml: <speak>Há um problema ao fazer um requerimento à Organização Mundial
