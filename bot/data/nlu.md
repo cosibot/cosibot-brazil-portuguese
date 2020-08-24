@@ -757,6 +757,8 @@
 
 ## intent:bot_real
 - Você é um bot?
+- Vc é um robô?
+- Você é um robô?
 - Você é um chatbot?
 - Você é um computador?
 - Você é um ser humano?
@@ -2273,7 +2275,40 @@
 - O que é Cosibot?
 - quem é cosibot?
 - Sobre o Cosibot.
+- Sobre Cosibot.
 - Fale-me sobre o Cosibot.
+
+## intent:covid_volunteer
+- Como posso ser voluntário?
+- Quero voluntariar-me.
+- Quero ser voluntário.
+- Quero ajudar nesse projeto.
+- Como posso ajudar?
+- Quero ajudar!
+- Como posso ser voluntário?
+- Como posso ajudar causas relaciodas ao COVID-19?
+- Como posso participar de um projeto?
+- Como posso ajudar uma ONG?
+
+## intent:covid_register
+- Como posso inscrever o meu projeto?
+- Como posso inscrever o meu projeto no Tech4CovidBR?
+- Que tipo de projeto pode ser inscrito?
+- Que projetos precisam de ajuda?
+
+## intent:covid_tech4covid
+- O que é o Tech4CovidBR?
+- O que é Tech4CovidBR?
+- Tech4CovidBR.
+- Tech4Covid.
+- O que é o Tech4Covid?
+- O que é Tech4Covid?
+- O que é o Tech4COVID19BR?
+- O que é o Tech4CovidBrasil?
+- Conhece o Tech4Covid? O que é o Tech4Covid?
+- O que é o Tech 4 Covid Brasil?
+- O que é o Tech4CovidBR?
+- O que é o Tech 4 COVID BR?
 
 ## intent:covid_crisis_howlong
 - Você acredita que é possível se erradicar o coronavírus? 
@@ -4880,6 +4915,12 @@
 - Passar através do cocô.
 
 ## intent:spread_general
+- como se pega o covide 19?
+- como se pega a covide 19?
+- como se pega o covid 19?
+- como se pega a covid 19?
+- como se pega o covid-19?
+- como se pega a covid-19?
 - Sobre como [COVID-19]{"entity": "virus", "value": "COVID"} se propaga.
 - Sobre como [COVID-19]{"entity": "virus", "value": "COVID"} se espalha.
 - Sobre como [COVID-19]{"entity": "virus", "value": "COVID"} se dissemina.
@@ -4888,6 +4929,8 @@
 - Sobre como o coronavírus se dissemina.
 - Sobre como se propaga.
 - Sobre como se espalha.
+- Com quantos dias eu ñ transmito mais o vírus?
+- Com quantos dias eu não transmito mais o vírus?
 - Sobre como se dissemina.
 - Sobre como a doença se propaga.
 - Sobre como a doença se espalha.
