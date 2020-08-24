@@ -2289,13 +2289,13 @@
 - Como posso participar de um projeto?
 - Como posso ajudar uma ONG?
 
-## intent:covid_volunteer
+## intent:covid_register
 - Como posso inscrever o meu projeto?
 - Como posso inscrever o meu projeto no Tech4CovidBR?
 - Que tipo de projeto pode ser inscrito?
 - Que projetos precisam de ajuda?
 
-## intent:covid_register
+## intent:covid_tech4covid
 - O que é o Tech4CovidBR?
 - O que é Tech4CovidBR?
 - Tech4CovidBR.
@@ -2308,7 +2308,6 @@
 - O que é o Tech 4 Covid Brasil?
 - O que é o Tech4CovidBR?
 - O que é o Tech 4 COVID BR?
-
 
 ## intent:covid_crisis_howlong
 - Você acredita que é possível se erradicar o coronavírus? 
